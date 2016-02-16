@@ -1,0 +1,12 @@
+commit eb70a91f177dd0419bffcf83370bc36e5f5c88ae
+Author: Ivan Pustovar <IvanSiam7@gmail.com>
+Date:   Tue Feb 16 15:43:23 2016 +0200
+
+    editing test.txt file
+
+commit 4a82bd8cac028dab75b3c539a4ff0ddaaa298b9c
+Author: Ivan Pustovar <IvanSiam7@gmail.com>
+Date:   Tue Feb 16 15:36:45 2016 +0200
+
+    adding .txt files to the repo
+
